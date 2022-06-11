@@ -4,7 +4,9 @@ this is a project that I built for my friend to help her in her course
 <br>
 its about finding cheapest path between 2 cities on the map (we simulate cities as nodes and map as the weighted graph) and calculating the lowest cost of travel in the graph (Total weight in the weighted graph between 2 nodes)
 <br>
+<br>
 project will be started by running "main.py"
+<br>
 1) graph data entrance is handled by data_collection function in functions.py
 2) graph input format is only "node1[space]node2[space]weight" for each edge,
 Otherwise, program will face an error, after entering each edge, you can choose
