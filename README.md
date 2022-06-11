@@ -1,4 +1,5 @@
-#Travel assistant (graph algorithms)
+<b>Travel assistant (graph algorithms)</b>
+<br>
 this is a project that I built for my friend to help her in her course
 <br>
 its about finding cheapest path between 2 cities on the map (we simulate cities as nodes and map as the weighted graph) and calculating the lowest cost of travel in the graph (Total weight in the weighted graph between 2 nodes)
